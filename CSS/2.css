@@ -75,10 +75,30 @@ li {
     width: 600px;
 }
 
-#imgAut {
-    width: 40%;
-}
-
 .fas {
     color: rgb(36, 92, 220);
+}
+
+@media only screen and (max-width:800px) {
+    #imgUs {
+        width: 500px;
+    }
+    #imgDisp {
+        width: 400px;
+    }
+    #imgAut {
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width:450px) {
+    #imgUs {
+        width: 300px;
+    }
+    #imgDisp {
+        width: 250px;
+    }
+    #imgAut {
+        width: 300px;
+    }
 }

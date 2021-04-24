@@ -93,12 +93,12 @@
     
     @media only screen and (max-width:450px) {
         #imgUs {
-            width: 300px;
+            width: 320px;
         }
         #imgDisp {
-            width: 250px;
+            width: 300px;
         }
         #imgAut {
-            width: 250px;
+            width: 300px;
         }
     }
